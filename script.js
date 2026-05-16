@@ -1,4 +1,4 @@
-const PASSWORD = "tes";
+const PASSWORD = "typeyourloveposturecheckfindyourway";
 
 function tryUnlock() {
   const input = document.getElementById('password-input');
